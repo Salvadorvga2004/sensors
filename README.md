@@ -10,10 +10,10 @@
 | 6 | SMD RGB | KY-009 |
 | 7 | Relay | KY-019 |
 | 8 | Big Sound | KY-037 |
-| 9 |  | KY-038 |
-| 10 |  | KY-033 |
-| 11 |  | KY-032 |
-| 12 |  | KY-026 |
+| 9 | Small Sound | KY-038 |
+| 10 | Traking | KY-033 |
+| 11 | Avoidance | KY-032 |
+| 12 | Flame | KY-026 |
 | 13 |  | KY-024 |
 | 14 |  | KY-036 |
 | 15 |  | KY-028 |
